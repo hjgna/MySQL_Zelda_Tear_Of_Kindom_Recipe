@@ -1,8 +1,8 @@
 # Zelda_Tear_Of_Kindom_Recipe
-##Description
+## Description
 The codes are for a course final froject. Some records were added to run statements.
-##Course name
+## Course name
 Database Management
-##Course data
+## Course data
 June, 2023 - August 2023
 
